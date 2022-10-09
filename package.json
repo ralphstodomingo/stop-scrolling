@@ -1,7 +1,7 @@
 {
-    "name": "react-typescript-chrome-extension-starter",
-    "version": "2.0.0",
-    "description": "Web Extension starter kit built with React, TypeScript, Tailwind CSS, EsLint, Prettier & Webpack",
+    "name": "stop-scrolling",
+    "version": "0.0.1",
+    "description": "Helps you be mindful of time spent scrolling on social media",
     "main": "index.js",
     "scripts": {
         "build": "webpack --config webpack.prod.js",
@@ -14,21 +14,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/aeksco/react-typescript-chrome-extension-starter.git"
+        "url": "git+https://github.com/ralphstodomingo/stop-scrolling.git"
     },
-    "keywords": [
-        "react",
-        "typescript",
-        "chrome",
-        "extension",
-        "boilerplate"
-    ],
-    "author": "Alexander Schwartzberg",
+    "author": "Ralph Sto. Domingo",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/aeksco/react-typescript-chrome-extension-starter/issues"
+        "url": "https://github.com/ralphstodomingo/stop-scrolling/issues"
     },
-    "homepage": "https://github.com/aeksco/react-typescript-chrome-extension-starter#readme",
+    "homepage": "https://github.com/ralphstodomingo/stop-scrolling#readme",
     "devDependencies": {
         "@babel/core": "^7.11.6",
         "@babel/preset-env": "^7.11.5",
